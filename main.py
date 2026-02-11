@@ -17,7 +17,7 @@ PRODUCTS = {
         "price": "₹299",
         "image": "https://i.ibb.co/M5p8wYDk/images-1.jpg",
         "delivery_type": "telegram",
-        "file_id": "BQACAgUAAxkBAAFCL_Bpi_0978oNtZBincl_ef6Qur8oBwACrx4AA5dhVG0pT1GyCdHDOgQ",
+        "file_id": "BQACAgUAAyEFAASymqRmAAMuaYwAAad_NZINu_FDVCWEadasUTY6AAKSHAACBEdhVFlo-yXdx-weOgQ",
     },
     "p2": {
         "name": "Hacking Site",
