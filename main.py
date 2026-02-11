@@ -13,18 +13,18 @@ SUPPORT_URL = "https://t.me/coreversions"
 
 PRODUCTS = {
     "p1": {
-        "name": "Premium PDF Guide",
+        "name": "Termux Command File",
         "price": "₹299",
         "image": "https://i.ibb.co/M5p8wYDk/images-1.jpg",
         "delivery_type": "telegram",
-        "file_id": "BQACAgUAAxkBAAIBQ2exampleFILEID",
+        "file_id": "BQACAgUAAxkBAAFCL79pi_m_VOnnEaHPBc8YSypfEBXAQgACph4AA5dhVEe8QkUuBYGaOgQ",
     },
     "p2": {
-        "name": "Trading Video Course",
+        "name": "Hacking Site",
         "price": "₹499",
         "image": "https://i.ibb.co/1JTcfGzh/artworks-y-FAn3-OCup-DU92dl-F-t-Sxmdw-t500x500.jpg",
         "delivery_type": "link",
-        "link": "https://example.com/download.zip",
+        "link": "https://clashbattle.qzz.io",
     }
 }
 
